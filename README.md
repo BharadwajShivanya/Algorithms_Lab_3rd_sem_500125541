@@ -1,7 +1,7 @@
 # Algorithms_Lab_3rd_sem_500125541
 This repository contains implementations of various algorithms completed as part of our lab exercises. Each lab focuses on a different algorithmic concept, including recursive and iterative approaches, divide and conquer, and greedy strategies. Below is a brief description of each lab:
 
-LAB-1: Binary Search Tree Insertion 🌳
+#LAB-1: Binary Search Tree Insertion 🌳
 Topic: Implement the insertion inside iterative and recursive Binary Search Tree (BST) and compare their performance.
 
 Description: This lab demonstrates the implementation of both iterative and recursive approaches to inserting elements into a Binary Search Tree. The performance comparison highlights the differences between these two methods.
